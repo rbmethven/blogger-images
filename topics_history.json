@@ -1,8 +1,20 @@
 [
   {
+    "title": "What Are Vector Embeddings? (And Why Your Spotify Wrapped Knows You Too Well)",
+    "content_type": "concept",
+    "published_at": "2026-07-30T21:16:32.158072+00:00",
+    "url": "https://dev.to/scobsmett/what-are-vector-embeddings-and-why-your-spotify-wrapped-knows-you-too-well-4eik"
+  },
+  {
+    "title": "What Is Retrieval Augmented Generation (RAG), and Why Does It Make AI So Much Less Confidently Wrong?",
+    "content_type": "concept",
+    "published_at": "2026-07-30T21:16:32.158135+00:00",
+    "url": "https://dev.to/scobsmett/what-is-retrieval-augmented-generation-rag-and-why-does-it-make-ai-so-much-less-confidently-349o"
+  },
+  {
     "title": "What Is Temperature in AI? (And How to Stop Getting Poetry When You Asked for a Grocery List)",
     "content_type": "concept",
-    "published_at": "2026-07-30T18:33:39.418451+00:00",
+    "published_at": "2026-07-30T21:16:32.158188+00:00",
     "url": "https://dev.to/scobsmett/what-is-temperature-in-ai-and-how-to-stop-getting-poetry-when-you-asked-for-a-grocery-list-461l-temp-slug-9007805"
   }
 ]
