@@ -22,5 +22,11 @@
     "content_type": "concept",
     "published_at": "2026-08-10T23:36:05.311510+00:00",
     "url": "https://dev.to/scobsmett/what-are-ai-agent-tools-and-why-cant-it-just-know-how-to-book-a-flight-2kf"
+  },
+  {
+    "title": "How to Teach Your AI Agent a New Trick: Building a Custom Skill in 15 Minutes",
+    "content_type": "howto",
+    "published_at": "2026-08-10T23:38:30.532796+00:00",
+    "url": "https://dev.to/scobsmett/how-to-teach-your-ai-agent-a-new-trick-building-a-custom-skill-in-15-minutes-416p"
   }
 ]
