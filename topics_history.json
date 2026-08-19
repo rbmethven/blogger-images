@@ -28,5 +28,11 @@
     "content_type": "howto",
     "published_at": "2026-08-10T23:38:30.532796+00:00",
     "url": "https://dev.to/scobsmett/how-to-teach-your-ai-agent-a-new-trick-building-a-custom-skill-in-15-minutes-416p"
+  },
+  {
+    "title": "7 Prompt Tricks to Stop AI From Overexplaining Like It's Defending a Thesis",
+    "content_type": "tips",
+    "published_at": "2026-08-19T21:56:22.996820+00:00",
+    "url": "https://dev.to/scobsmett/7-prompt-tricks-to-stop-ai-from-overexplaining-like-its-defending-a-thesis-ld7"
   }
 ]
