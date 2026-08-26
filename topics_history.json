@@ -34,5 +34,11 @@
     "content_type": "tips",
     "published_at": "2026-08-19T21:56:22.996820+00:00",
     "url": "https://dev.to/scobsmett/7-prompt-tricks-to-stop-ai-from-overexplaining-like-its-defending-a-thesis-ld7"
+  },
+  {
+    "title": "What Is a Token? (And Why AI Thinks 'Strawberry' Has Two Rs)",
+    "content_type": "concept",
+    "published_at": "2026-08-26T13:02:22.615191+00:00",
+    "url": "https://dev.to/scobsmett/what-is-a-token-and-why-ai-thinks-strawberry-has-two-rs-2plk"
   }
 ]
