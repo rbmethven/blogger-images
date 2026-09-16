@@ -52,5 +52,11 @@
     "content_type": "tips",
     "published_at": "2026-09-09T13:02:26.281929+00:00",
     "url": "https://dev.to/scobsmett/6-tricks-to-get-ai-to-actually-admit-when-it-doesnt-know-something-instead-of-making-stuff-up-4a99"
+  },
+  {
+    "title": "What Is Prompt Chaining? (And How to Stop Asking AI to Do Five Things in One Breath)",
+    "content_type": "concept",
+    "published_at": "2026-09-16T13:02:24.444851+00:00",
+    "url": "https://dev.to/scobsmett/what-is-prompt-chaining-and-how-to-stop-asking-ai-to-do-five-things-in-one-breath-419m"
   }
 ]
