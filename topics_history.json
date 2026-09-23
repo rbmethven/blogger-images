@@ -58,5 +58,11 @@
     "content_type": "concept",
     "published_at": "2026-09-16T13:02:24.444851+00:00",
     "url": "https://dev.to/scobsmett/what-is-prompt-chaining-and-how-to-stop-asking-ai-to-do-five-things-in-one-breath-419m"
+  },
+  {
+    "title": "How to Use AI to Translate Jargon-Heavy Documents Into Actual English (Without Losing the Important Bits)",
+    "content_type": "howto",
+    "published_at": "2026-09-23T13:02:14.074706+00:00",
+    "url": "https://dev.to/scobsmett/how-to-use-ai-to-translate-jargon-heavy-documents-into-actual-english-without-losing-the-important-15fe"
   }
 ]
