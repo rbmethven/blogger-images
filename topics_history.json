@@ -76,5 +76,11 @@
     "content_type": "concept",
     "published_at": "2026-10-07T13:02:13.236856+00:00",
     "url": "https://dev.to/scobsmett/what-is-context-window-and-why-ai-forgets-the-beginning-of-your-conversation-midway-through-171d"
+  },
+  {
+    "title": "How to Use AI to Turn Meeting Notes Into Action Items (Without Re-Reading an Hour of Rambling)",
+    "content_type": "howto",
+    "published_at": "2026-10-14T13:02:17.928493+00:00",
+    "url": "https://dev.to/scobsmett/how-to-use-ai-to-turn-meeting-notes-into-action-items-without-re-reading-an-hour-of-rambling-1d3"
   }
 ]
