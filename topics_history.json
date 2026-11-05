@@ -88,5 +88,11 @@
     "content_type": "tips",
     "published_at": "2026-10-21T13:02:11.110313+00:00",
     "url": "https://dev.to/scobsmett/6-tricks-to-get-ai-to-show-its-work-so-you-can-actually-verify-its-not-just-making-numbers-up-1ljk"
+  },
+  {
+    "title": "What Is a Transformer Model? (And Why AI Suddenly Got Scary Good at Finishing Your Sentences)",
+    "content_type": "concept",
+    "published_at": "2026-11-05T02:59:33.829110+00:00",
+    "url": "https://dev.to/scobsmett/what-is-a-transformer-model-and-why-ai-suddenly-got-scary-good-at-finishing-your-sentences-2gbi"
   }
 ]
