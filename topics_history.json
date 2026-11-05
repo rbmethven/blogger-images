@@ -100,5 +100,11 @@
     "content_type": "concept",
     "published_at": "2026-11-05T03:00:30.390314+00:00",
     "url": "https://dev.to/scobsmett/what-is-fine-tuning-and-why-ai-needs-a-finishing-school-before-it-can-write-your-marketing-emails-4kem"
+  },
+  {
+    "title": "How to Use AI to Generate Multiple Versions of Anything (And Pick the Best One Without Starting From Scratch Every Time)",
+    "content_type": "howto",
+    "published_at": "2026-11-05T03:01:22.751478+00:00",
+    "url": "https://dev.to/scobsmett/how-to-use-ai-to-generate-multiple-versions-of-anything-and-pick-the-best-one-without-starting-268p"
   }
 ]
