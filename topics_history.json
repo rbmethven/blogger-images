@@ -118,5 +118,11 @@
     "content_type": "tips",
     "published_at": "2026-11-11T13:02:19.941404+00:00",
     "url": "https://dev.to/scobsmett/5-ways-to-get-ai-to-stop-sounding-like-a-corporate-press-release-and-write-like-a-human-whos-had-1bd0"
+  },
+  {
+    "title": "What Is a Confusion Matrix? (And Why AI Needs a Report Card That Shows Where It's Confidently, Spectacularly Wrong)",
+    "content_type": "concept",
+    "published_at": "2026-11-18T13:01:51.232677+00:00",
+    "url": "https://dev.to/scobsmett/what-is-a-confusion-matrix-and-why-ai-needs-a-report-card-that-shows-where-its-confidently-1b18"
   }
 ]
